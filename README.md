@@ -275,7 +275,7 @@ The application can be deployed on:
 # 📸 Application Screenshots
 
 ## Login Page
-![Login](frontend/public/login.png)
+![Login](full-stack_chatApp-main/frontend/public/login.png)
 
 ---
 
@@ -287,13 +287,13 @@ The application can be deployed on:
 
 ## Settings Page
 
-![Settings](frontend/public/settings.png)
+![Settings](full-stack_chatApp-main/frontend/public/settings.png)
 
 ---
 
 ## Logout Screen
 
-![Logout](frontend/public/logout.png)
+![Logout](full-stack_chatApp-main/frontend/public/logout.png)
 
 ---
 
